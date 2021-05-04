@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/website",
   siteMetadata: {
     siteTitle: `Kappa Sigma Mu`,
     defaultTitle: `Kappa Sigma Mu`,
