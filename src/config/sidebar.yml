@@ -1,0 +1,12 @@
+# Sidebar navigation
+
+- label: 'Index'
+  link: '/'
+- label: 'Releases'
+  link: '/releases'
+- label: More
+  items:
+    - label: FAQ
+      link: /faq
+    - label: 'Github'
+      link: https://github.com/rocketseat/gatsby-themes
