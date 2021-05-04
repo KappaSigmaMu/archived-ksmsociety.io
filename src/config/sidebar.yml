@@ -6,7 +6,7 @@
   link: '/releases'
 - label: More
   items:
-    - label: FAQ
-      link: /faq
+    - label: 404
+      link: /wat
     - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+      link: https://github.com/KappaSigmaMu
