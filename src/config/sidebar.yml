@@ -1,12 +1,14 @@
 # Sidebar navigation
 
-- label: 'Index'
-  link: '/'
-- label: 'Releases'
-  link: '/releases'
+- label: "Index"
+  link: "/"
+- label: "Releases"
+  link: "/releases"
+- label: "How to Join"
+  link: "/how-to-join"
 - label: More
   items:
     - label: 404
       link: /wat
-    - label: 'Github'
+    - label: "Github"
       link: https://github.com/KappaSigmaMu
