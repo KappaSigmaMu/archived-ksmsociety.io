@@ -1,14 +1,20 @@
 # Sidebar navigation
 
-- label: "Index"
+- label: Home
   link: "/"
-- label: "Releases"
-  link: "/releases"
-- label: "How to Join"
+- label: How to Join
   link: "/how-to-join"
+- label: The Kusama Fratority
+  link: "/the-fratority"
+- label: Releases
+  link: "/releases"
 - label: More
   items:
-    - label: 404
-      link: /wat
-    - label: "Github"
+    - label: Society Roles
+      link: https://polkascan.io/kusama/transaction/0x948d3a4378914341dc7af9220a4c73acb2b3f72a70f14ee8089799da16d94c17
+    - label: Motion 186
+      link: https://kusama.polkassembly.io/motion/186
+    - label: Branding Drive
+      link: https://drive.google.com/drive/u/1/folders/1ReG63yRvPgIRRyryDTbrACHELcZoMkA3
+    - label: Code Repository
       link: https://github.com/KappaSigmaMu
