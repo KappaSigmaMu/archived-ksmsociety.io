@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/website",
+  pathPrefix: "/",
   siteMetadata: {
     siteTitle: `Kappa Sigma Mu`,
     defaultTitle: `Kappa Sigma Mu`,
@@ -19,7 +19,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        repositoryUrl: `https://github.com/KappaSigmaMu/website`,
+        repositoryUrl: `https://github.com/KappaSigmaMu/kappasigmamu.github.io`,
       },
     },
     {
