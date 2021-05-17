@@ -10,7 +10,7 @@
   link: "/releases"
 - label: More
   items:
-    - label: Society Roles
+    - label: Society Rules
       link: https://polkascan.io/kusama/transaction/0x948d3a4378914341dc7af9220a4c73acb2b3f72a70f14ee8089799da16d94c17
     - label: Motion 186
       link: https://kusama.polkassembly.io/motion/186
