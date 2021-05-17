@@ -18,7 +18,7 @@ module.exports = {
       resolve: `@rocketseat/gatsby-theme-docs`,
       options: {
         configPath: `src/config`,
-        docsPath: `src/docs`,
+        docsPath: `content`,
         repositoryUrl: `https://github.com/KappaSigmaMu/kappasigmamu.github.io`,
       },
     },
