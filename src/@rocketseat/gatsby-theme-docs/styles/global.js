@@ -27,6 +27,16 @@ export default function GlobalStyle() {
           overflow-y: scroll;
         }
 
+        p::-moz-selection {
+          color: #e6007a;
+          background: #00ffe1;
+        }
+
+        p::selection {
+          color: #e6007a;
+          background: #00ffe1;
+        }
+
         h1 {
           font-size: 32px;
           font-family: ${theme.font.header};
@@ -319,12 +329,7 @@ export default function GlobalStyle() {
 
         .gatsby-resp-iframe-wrapper {
           margin-bottom: 20px;
-          max-width: 800px !important;
           margin: 0 auto;
-        }
-
-        .gatsby-resp-image-wrapper {
-          max-width: 720px !important;
         }
       `}
     />
