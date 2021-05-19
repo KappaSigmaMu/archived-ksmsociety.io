@@ -324,7 +324,7 @@ export default function GlobalStyle() {
         }
 
         .gatsby-resp-image-wrapper {
-          max-width: 800px !important;
+          max-width: 720px !important;
         }
       `}
     />

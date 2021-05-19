@@ -17,8 +17,8 @@ export default function Layout({
 }) {
   const contentRef = useRef(null);
   const [isMenuOpen, setMenuOpen] = useState(false);
-  const disableTOC =
-    disableTableOfContents === true || !headings || headings.length === 0;
+  // const disableTOC =
+  //   disableTableOfContents === true || !headings || headings.length === 0;
 
   function handleMenuOpen() {
     setMenuOpen(!isMenuOpen);
