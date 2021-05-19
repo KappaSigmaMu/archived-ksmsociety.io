@@ -7,6 +7,9 @@ export default function GlobalStyle() {
   return (
     <Global
       styles={css`
+        @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+        *  {}
+
         *,
         *::after,
         *::before {
@@ -26,7 +29,9 @@ export default function GlobalStyle() {
 
         h1 {
           font-size: 32px;
+          font-family: ${theme.font.header};
           color: ${theme.colors.title};
+          text-transform: uppercase;
           font-weight: bold;
           margin-bottom: 24px;
         }
@@ -48,6 +53,7 @@ export default function GlobalStyle() {
         h4,
         h5,
         h6 {
+          font-family: ${theme.font.header};
           color: ${theme.colors.title};
 
           margin: 24px 0 16px 0;

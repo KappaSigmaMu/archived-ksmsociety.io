@@ -1,6 +1,7 @@
 const theme = {
   font: {
-    body: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
+    body: "'Space Mono', monospace",
+    header: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;",
   },
   colors: {
     primary: `#fff`,
