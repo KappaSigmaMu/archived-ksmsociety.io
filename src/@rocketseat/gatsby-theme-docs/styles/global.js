@@ -56,10 +56,16 @@ export default function GlobalStyle() {
 
         p {
           color: ${theme.colors.text};
-          font-size: 16px;
-          line-height: 28px;
+          font-size: 18px;
+          line-height: 1.8;
           margin-bottom: 16px;
           font-weight: 400;
+        }
+
+        em {
+          font-size: 18px;
+          line-height: 1.4;
+          margin-bottom: 16px;
         }
 
         code.inline-code {
@@ -83,7 +89,7 @@ export default function GlobalStyle() {
         }
 
         a {
-          color: ${theme.colors.text};
+          color: #e6007a;
           font-weight: bold;
           text-decoration: none;
 
@@ -98,7 +104,7 @@ export default function GlobalStyle() {
 
           p {
             padding: 1rem;
-            border-radius: 5px;
+            border-radius: 0;
             background: ${theme.colors.components.blockquote.background};
             color: ${theme.colors.components.blockquote.text};
             margin: 0;
