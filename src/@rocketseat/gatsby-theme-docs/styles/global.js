@@ -316,6 +316,16 @@ export default function GlobalStyle() {
           content: 'flow';
           background: #e8bd36;
         }
+
+        .gatsby-resp-iframe-wrapper {
+          margin-bottom: 20px;
+          max-width: 800px !important;
+          margin: 0 auto;
+        }
+
+        .gatsby-resp-image-wrapper {
+          max-width: 800px !important;
+        }
       `}
     />
   );

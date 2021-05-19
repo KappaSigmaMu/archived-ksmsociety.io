@@ -2,13 +2,13 @@
 
 - label: Home
   link: "/"
+- label: Brand Releases
+  link: "/releases"
 - label: How to Join
   link: "/how-to-join"
 - label: The Kusama Fratority
   link: "/the-fratority"
-- label: Releases
-  link: "/releases"
-- label: More
+- label: External Links
   items:
     - label: Society Rules
       link: https://polkascan.io/kusama/transaction/0x948d3a4378914341dc7af9220a4c73acb2b3f72a70f14ee8089799da16d94c17
