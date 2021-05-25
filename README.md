@@ -3,10 +3,17 @@
 ## Development
 
 ```sh
+npm install
 gatsby develop
 ```
 
 Your site is now running at `http://localhost:8000`
+
+### Tests
+
+```sh
+npm test
+```
 
 ## Deploy
 
