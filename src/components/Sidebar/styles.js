@@ -1,4 +1,4 @@
-import styled from '@emotion/styled';
+import styled from "@emotion/styled";
 
 export const Container = styled.aside`
   width: 100%;
@@ -33,7 +33,7 @@ export const Container = styled.aside`
     padding-top: 32px;
     background: ${({ theme }) => theme.colors.background};
     transform: translate3d(
-      ${({ isMenuOpen }) => (isMenuOpen ? '0' : '-100%')},
+      ${({ isMenuOpen }) => (isMenuOpen ? "0" : "-100%")},
       0,
       0
     );
