@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SocietyApi returns an array 1`] = `
+"[
+    {
+      who: Gnh63rW5fy3FAbnZQPkajyrQXxQGkg56Waoe2Ede1RjRjrJ,
+      kind: {
+        Deposit: 1.6666 KSM
+      },
+      value: 0
+    },
+    {
+      who: CpLVRWcUd7PxDPSmtXwQC3628dwEYiMd3GbqZTnqvphMN3B,
+      kind: {
+        Deposit: 1.6666 KSM
+      },
+      value: 15.0000 mKSM
+    },
+    {
+      who: FPf9hUTakVYT5ogYXTLKu9Pf36kozWm6mpwTrTMNcm6CLDn,
+      kind: {
+        Deposit: 1.6666 KSM
+      },
+      value: 5.9998 KSM
+    },
+    {
+      who: GhHJUE4G3WGCVRZv7AKkgzJM7UDETPRwp9ffbe9QkkMGfv5,
+      kind: {
+        Deposit: 1.6666 KSM
+      },
+      value: 7.9000 KSM
+    },
+    {
+      who: J4NV2ypKh6sVrYnoy8QcdZ5qcWjsogcCPKk8q96JkYWdSc4,
+      kind: {
+        Vouch: [
+          EtJMBiUVsHm3bwfMhWksQ14mv1P69BHjp7ELYDWdqXynR6K,
+          1.0000 KSM
+        ]
+      },
+      value: 9.0000 KSM
+    },
+    {
+      who: Eo77rbgMkuP7FRhgzh8L8eu1866LRKLVBFKgW6oz22fE9PU,
+      kind: {
+        Vouch: [
+          H9MWitpKFrB45YLdkSNQ5nbpob2oufaG8og3PHrSew1TsJJ,
+          0
+        ]
+      },
+      value: 20.0000 KSM
+    },
+    {
+      who: HhBFVNVU5gdcBqhoCdRWeNvtJBg3BsjyVFTRB1F7QgVfVv6,
+      kind: {
+        Deposit: 1.6666 KSM
+      },
+      value: 48.0000 KSM
+    },
+    {
+      who: HvGpvxepNz3UrkpkqRAwHJKmEPenXLswETCRcY94Wk3Xu5w,
+      kind: {
+        Deposit: 1.6666 KSM
+      },
+      value: 65.0000 KSM
+    },
+    {
+      who: JFArxqV6rqPSwBok3zQDnj5jL6vwsZQDwYXXqb1cFygnYVt,
+      kind: {
+        Deposit: 33.3333 mKSM
+      },
+      value: 500.0000 KSM
+    },
+    {
+      who: GaMbYJg2wSG2Hb4SVWJwCRgXNWboHwViTLdT3DSxg1EpeeN,
+      kind: {
+        Deposit: 33.3333 mKSM
+      },
+      value: 951.0000 KSM
+    },
+    {
+      who: CpjsLDC1JFyrhm3ftC9Gs4QoyrkHKhZKtK7YqGTRFtTafgp,
+      kind: {
+        Deposit: 1.6666 KSM
+      },
+      value: 999.0000 KSM
+    }
+  ]"
+`;
