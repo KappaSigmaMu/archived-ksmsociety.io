@@ -8,7 +8,7 @@ export default async function SocietyApi() {
   api.rpc.chain.subscribeNewHeads((header) => {
     console.log(`Chain is at #${header.number}`);
 
-    return header;
+    return header.number;
   });
 
   return a;
