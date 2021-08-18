@@ -184,6 +184,11 @@ export default function GlobalStyle() {
           max-width: 100%;
         }
 
+        img[src*='#center'] {
+          display: block;
+          margin: auto;
+        }
+
         ul,
         ol {
           color: ${theme.colors.text};
